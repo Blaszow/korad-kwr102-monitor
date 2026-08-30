@@ -18,6 +18,7 @@ Gotowy plik KORAD Monitor.exe znajdziesz w zakładce Releases. The prebuilt KORA
 Windows Defender, SmartScreen lub inny program antywirusowy może oznaczyć plik jako podejrzany. To normalne i nie oznacza, że plik zawiera wirusa. Dzieje się tak, ponieważ program został spakowany narzędziem PyInstaller i nie jest podpisany cyfrowo (podpis kosztuje kilkaset dolarów rocznie). Tą samą metodą pakowanych jest tysiące legalnych programów w Pythonie.
 
 Jeśli mi nie ufasz — i słusznie, bo nie powinieneś ufać obcym plikom .exe — kod źródłowy jest w całości dostępny w tym repozytorium. Możesz go przejrzeć i samodzielnie zbudować plik .exe (instrukcja niżej) albo po prostu uruchomić program bezpośrednio z kodu.
+
 ⚠️ Note: antivirus may report a false positive
 
 Windows Defender, SmartScreen or another antivirus may flag the file as suspicious. This is normal and does not mean the file contains a virus. It happens because the program is packaged with PyInstaller and is not code-signed (signing costs several hundred dollars per year). Thousands of legitimate Python programs are distributed the same way.
