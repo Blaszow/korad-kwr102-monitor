@@ -7,7 +7,10 @@ Unofficial, independent control software for the KORAD KWR102 laboratory power s
 
 > **Projekt niezależny — niepowiązany z firmą KORAD.**
 > **Independent project — not affiliated with KORAD.**
+> 
+📥 Pobierz program / Download
 
+Gotowy plik KORAD Monitor.exe znajdziesz w zakładce Releases. The prebuilt KORAD Monitor.exe is available under Releases.
 ---
 
 ## 🇵🇱 Wersja polska
