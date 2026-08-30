@@ -1,4 +1,4 @@
-# KORAD KWR 102 Monitor (unofficial)
+# KORAD KWR 102 Monitor PL/EN (unofficial)
 
 **v1.0 — by Horde97**
 
