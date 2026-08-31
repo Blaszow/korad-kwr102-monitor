@@ -12,7 +12,7 @@ import json
 import os
 
 CONFIG_FILE = 'korad_config.json'
-APP_VERSION = "v1.0"
+APP_VERSION = "v1.1"
 APP_AUTHOR = "by Horde97"
 
 # Czcionki "cyfrowe" - probujemy po kolei, uzywamy pierwszej dostepnej w systemie.
