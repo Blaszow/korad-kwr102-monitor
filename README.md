@@ -2,8 +2,8 @@
 
 **v1.1 — by Horde97**
 
-Nieoficjalne, niezależne oprogramowanie sterujące dla zasilacza laboratoryjnego KORAD KWR102 (seria KWR100).
-Unofficial, independent control software for the KORAD KWR102 laboratory power supply (KWR100 series).
+Nieoficjalne, niezależne oprogramowanie sterujące dla zasilacza laboratoryjnego KORAD KWR102 stworzone z pomocą AI (seria KWR100).
+Unofficial, independent control software for the KORAD KWR102 laboratory power supply created with the help of AI (KWR100 series).
 
 > **Projekt niezależny — niepowiązany z firmą KORAD.**
 > **Independent project — not affiliated with KORAD.**
