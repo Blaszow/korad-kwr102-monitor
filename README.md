@@ -2,8 +2,12 @@
 
 **v1.1 — by Horde97**
 
-Nieoficjalne, niezależne oprogramowanie sterujące dla zasilacza laboratoryjnego KORAD KWR102 stworzone z pomocą AI (seria KWR100).
-Unofficial, independent control software for the KORAD KWR102 laboratory power supply created with the help of AI (KWR100 series).
+Nieoficjalne, niezależne oprogramowanie sterujące dla zasilacza laboratoryjnego KORAD KWR102 (seria KWR100) stworzone z pomocą AI.
+Unofficial, independent control software for the KORAD KWR102 (KWR100 series) laboratory power supply created with the help of AI.
+
+Protokół komunikacji ustalony samodzielnie przez analizę transmisji szeregowej; całość testowana i weryfikowana na rzeczywistym sprzęcie.
+
+The communication protocol was determined independently by analyzing serial traffic; everything was tested and verified on real hardware.
 
 > **Projekt niezależny — niepowiązany z firmą KORAD.**
 > **Independent project — not affiliated with KORAD.**
